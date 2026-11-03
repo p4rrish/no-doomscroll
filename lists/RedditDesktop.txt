@@ -1,0 +1,12 @@
+! Title: Anti-Reddit (Desktop)
+! Description: This list filters out all content on Reddit (post feed, search bar, etc...) except for the content of a single Reddit post (i.e: Reddit is only usable if the user is viewing a single post, rather than a subreddit or the main feed)
+! Source: https://github.com/p4rrish/no-doomscroll
+
+www.reddit.com##.h-\[40px\].flex-1.py-xs.flex.justify-stretch
+www.reddit.com##.ps-lg.gap-xs.flex.items-center.justify-end
+www.reddit.com###navbar-menu-button
+www.reddit.com##.masthead.w-full
+www.reddit.com##.main-container.gap-lg.w-full.flex-1.grid.place-content-between.grid-cols-\[minmax\(0\,1fr\)\].fixed-sidebar.s\:\[\&\.fixed-sidebar\]\:grid-cols-\[minmax\(0\,756px\)_minmax\(0\,316px\)\].s\:\[\&\.flex-sidebar\]\:grid-cols-\[minmax\(0\,756px\)_auto\]
+www.reddit.com###right-sidebar-container
+www.reddit.com###left-sidebar
+www.reddit.com###flex-left-nav-container

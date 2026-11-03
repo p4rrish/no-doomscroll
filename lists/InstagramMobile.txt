@@ -1,0 +1,39 @@
+! Title: Anti-Instagram (Mobile)
+! Description: Streamlines the Instagram Web App on desktop to block elements such as the main feed, stories, reels and explore page.
+! Source: https://github.com/p4rrish/no-doomscroll
+
+! Stories 
+www.instagram.com##.x78zum5.x1y1aw1k.xyri2b.xwib8y2.x1c1uobl.xfk6m8
+www.instagram.com##.x78zum5.x1y1aw1k.xrw5ot4.xwib8y2.x7coems.xfk6m8
+www.instagram.com##.xpyat2d.xnz67gz
+www.instagram.com##.x1i10hfl.xjbqb8w.xjqpnuy.xc5r6h4.xqeqjp1.x1phubyo.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x972fbf.x10w94by.x1qhh985.x14e42zd.x9f619.x1ypdohk.xdl72j9.x2lah0s.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.x2lwn1j.xeuugli.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x16tdsg8.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1fmog5m.xu25z0z.x140muxe.xo1y3bh.x1q0g3np.x87ps6o.x1lku1pv.x1a2a7pz.x6s0dn4.xamitd3.x1lliihq.xl56j7k.x1n2onr6 > .x1upo8f9.xpdipgo.x87ps6o
+
+! Posts on the main feed
+www.instagram.com##.x9f619.xjbqb8w.x78zum5.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.x1uhb9sk.x1plvlek.xryxfnj.x1c4vz4f.x2lah0s.xdt5ytf.xqjyukv.x6s0dn4.x1oa3qoh.x1nhvcw1
+
+! Explore
+www.instagram.com##.x78zum5.xdt5ytf.x11lt19s.x1n2onr6.xph46j.x7x3xai.xsybdxg.x194l6zq > div > div.x9f619.xjbqb8w.x1lliihq.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.x1n2onr6.x1plvlek.xryxfnj.x1c4vz4f.x2lah0s.xdt5ytf.xqjyukv.x1qjc9v5.x1oa3qoh.x1nhvcw1
+www.instagram.com##._aalg
+www.instagram.com##.x78zum5.xdt5ytf.x11lt19s.x1n2onr6.xph46j.x7x3xai.xsybdxg.x194l6zq > div > div.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x9f619.xjbqb8w.x1lliihq.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.x1n2onr6.x1plvlek.xryxfnj.x1c4vz4f.x2lah0s.x1oa3qoh
+
+! Reels
+www.instagram.com##.xh8yej3.x1n2onr6.xaw8158.x1q0g3np.x78zum5.x9f619.x178xt8z.x13fuv20.x1yvgwvq.xaeubzz.x1o5hw5a > .xh8yej3.xaw8158.x78zum5 > div:nth-of-type(3)
+
+! Create
+www.instagram.com##._ab18._at34._ab1b > .x9f619.xjbqb8w.x78zum5.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.x1uhb9sk.x1plvlek.xryxfnj.x1c4vz4f.x2lah0s.xdt5ytf.xqjyukv.x1qjc9v5.x1oa3qoh.x1nhvcw1 > .x78zum5.xl56j7k > .html-span.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1hl2dhg.x16tdsg8.x1vvkbs.x4k7w5x.x1h91t0o.x1h9r5lt.x1jfb8zj.xv2umb2.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1qrby5j > div.x1n2onr6:nth-of-type(1) > .x1i10hfl.xjbqb8w.x1ejq31n.x18oe1m7.x1sy0etr.xstzfhl.x972fbf.x10w94by.x1qhh985.x14e42zd.x9f619.x1ypdohk.xt0psk2.xe8uvvx.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x16tdsg8.x1hl2dhg.xggy1nq.x1a2a7pz._a6hd > .x9f619.x3nfvp2.x1xmf6yo.x1e56ztr.xz9dl7a.xpdmqnj.xsag5q8.x1g0dm76.x1dn74xm.xif99yt.x172qv1o.x4afuhf.x1lhsz42.x10v4vz6.xdoji71.x1dejxi8.x9k3k5o.x8st7rj.x11hdxyr.x1eunh74.x1wj20lx.x1rl75mt.x19t5iym.xz7t8uv.x13xmedi
+www.instagram.com##._ab18._at34._ab1b > .html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x9f619.x5lhr3w.xjbqb8w.x78zum5.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.x1uhb9sk.x1plvlek.xryxfnj.x1c4vz4f.x2lah0s.xdt5ytf.xqjyukv.x1qjc9v5.x1oa3qoh.x1nhvcw1 > .x78zum5.xl56j7k > .html-span.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1hl2dhg.x16tdsg8.x1vvkbs.x4k7w5x.x1h91t0o.x1h9r5lt.x1jfb8zj.xv2umb2.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1qrby5j > div.x1n2onr6:nth-of-type(1) > .x1i10hfl.xjbqb8w.x1ejq31n.x18oe1m7.x1sy0etr.xstzfhl.x972fbf.x10w94by.x1qhh985.x14e42zd.x9f619.x1ypdohk.xt0psk2.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x16tdsg8.x1hl2dhg.xggy1nq.x1a2a7pz.x4gyw5p._a6hd > .x9f619.x3nfvp2.x1xmf6yo.x1e56ztr.xz9dl7a.xpdmqnj.xsag5q8.x1g0dm76.x1dn74xm.xif99yt.x172qv1o.x4afuhf.x1lhsz42.x10v4vz6.xdoji71.x1dejxi8.x9k3k5o.x8st7rj.x11hdxyr.x1eunh74.x1wj20lx.x1rl75mt.x19t5iym.xz7t8uv.x13xmedi
+
+! Notes
+www.instagram.com##.x7wppnt
+www.instagram.com##.xsnw5ke.x9f619.x78zum5.x13b9bq5.x193iq5w.x1n2onr6.x2b8uid.x13faqbe.x3zg9eu.xrw4ojt.xg6frx5.xw872ko.xhgbb2x.x1s928wv.x1j6awrg.x12l2aii.x1mbk4o.x14vvt0a.x1w3ol1v.xxt2rmt.xc7aqrk.xgujvf1.x1y1aw1k.xf159sx.xwib8y2.xmzvs34.xdb1ctf.x1cf5b39.x1bymyaz.x18ebn6z.xg4xgkf
+www.instagram.com##.x1c4vz4f.x2lah0s.x1njnjl6.xw7yly9
+
+! Suggested Accounts
+www.instagram.com##div.x9f619.xjbqb8w.x78zum5.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.xwib8y2.x1y1aw1k.x1uhb9sk.x1plvlek.xryxfnj.x1c4vz4f.x2lah0s.xdt5ytf.xqjyukv.x1qjc9v5.x1oa3qoh.x1nhvcw1:nth-of-type(4)
+www.instagram.com##.x9f619.xjbqb8w.x78zum5.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.xw7yly9.xod5an3.xpdmqnj.x1g0dm76.x1uhb9sk.x1plvlek.xryxfnj.x1c4vz4f.x2lah0s.xdt5ytf.xqjyukv.x1cy8zhl.x1oa3qoh.x1nhvcw1
+www.instagram.com##div.x9f619.xjbqb8w.x78zum5.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.xwib8y2.x1y1aw1k.x1uhb9sk.x1plvlek.xryxfnj.x1c4vz4f.x2lah0s.xdt5ytf.xqjyukv.x1qjc9v5.x1oa3qoh.x1nhvcw1:nth-of-type(2)
+www.instagram.com##.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.x9f619.xjbqb8w.x78zum5.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.xv54qhq.xf7dkkf.xsag5q8.xz9dl7a.x1n2onr6.x1plvlek.xryxfnj.x1c4vz4f.x2lah0s.xdt5ytf.xqjyukv.x1qjc9v5.x1oa3qoh.x1nhvcw1
+www.instagram.com##.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xyri2b.x1c1uobl.x9f619.xjbqb8w.x78zum5.x15mokao.x1ga7v0g.x16uus16.xbiv7yw.xwib8y2.x1y1aw1k.x1uhb9sk.x1plvlek.xryxfnj.x1c4vz4f.x2lah0s.xdt5ytf.xqjyukv.x1qjc9v5.x1oa3qoh.x1nhvcw1
+
+! Threads
+www.instagram.com##._ab18._at34._ab1b > .html-span.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1hl2dhg.x16tdsg8.x1vvkbs.x4k7w5x.x1h91t0o.x1h9r5lt.x1jfb8zj.xv2umb2.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1qrby5j
