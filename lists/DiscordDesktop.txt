@@ -2,14 +2,10 @@
 ! Description: This list filters out all content on the Discord desktop webapp except for the 'Friends' Direct Message side-panel.
 ! Source: https://github.com/p4rrish/no-doomscroll
 
-discord.com##.peopleList__5ec2f.scrollbarGutterStable_d125d2.auto_d125d2.scrollerBase_d125d2 > div:nth-of-type(1)
-discord.com##.scroller__7d20c.scrollbarGutter_d125d2.thin_d125d2.scrollerBase_d125d2
-discord.com##.children__9293f.scrollable__9293f
-discord.com##.wrapper__72c38.container__75098.md__75098.text-md\/normal_cf4812.hasLeading__75098
-discord.com##.tree_ef3116
-discord.com##.searchBar_e6b769
-discord.com##.content_d125d2 > div:nth-of-type(3) > .channel__972a0.container_e45859 > .interactive_f88cfd.interactive__972a0.linkButton__972a0 > .link__972a0
-discord.com##.content_d125d2 > li.channel__972a0.container_e45859:nth-of-type(1) > .interactive_f88cfd.interactive__972a0.linkButton__972a0 > .link__972a0
-discord.com##.wrapper_ef3116.guilds__5e434.theme-dark.theme-darker.images-dark
-discord.com##.wrapper__553bf > .channel__972a0.container_e45859 > .interactive_f88cfd.interactive__972a0.linkButton__972a0 > .link__972a0
-discord.com##.theme-dark.theme-darker.images-dark.container__9293f.themed__9293f
+discord.com##main[aria-label="Friends"]
+discord.com##nav[aria-label="Servers sidebar"]
+discord.com##div[class^="searchBar_"]
+discord.com##div[class^="friendsButtonContainer_"]
+discord.com##a[data-list-item-id*="private-channels-uid_"][data-list-item-id*="_shop"]:upward(div)
+discord.com##a[data-list-item-id*="private-channels-uid_"][data-list-item-id*="_nitro"]:upward(div)
+discord.com##a[data-list-item-id*="private-channels-uid_"][data-list-item-id*="_quests"]:upward(div)
